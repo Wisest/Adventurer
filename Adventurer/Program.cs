@@ -99,6 +99,49 @@ I'm sure it's the main story of every bards in the region. But me, I have better
             //3----------------------------------------------------------------------------
             // [6]
             "You want to ask more questions about the incident but you notice a group of guard coming your way."};
+        static string[] PartTrhee = {
+            //1----------------------------------------------------------------------------
+            // [0]
+            @"You have walked a great deal before arriving at the doors of Askeer.
+The wall of the city were looking kind of old, but without damage.
+As you approach the West gate, behind a small market made of merchants and some poor beggars you notice a guard point.
+Making your way to the guard point through the little market, a beggar stop you and ask for a coin to eat.
+            A – Give some coins to the beggar and continue to the guard point
+            B – Give nothing the beggar and continue to the guard point",
+            //A
+            // [1]
+            @"As you let your hand into your money bag, the eyes of the beggar brighten up and compliment his non hidden smile.
+  ""It\'s not often that a stranger stop by. You should mind the guard and find another entrance.
+Let me help you with that as a thanks for the money you gave me"".
+And so the beggar start leading you to a smaller guarded entrance, where the city wall is in maintenance.
+He introduces you with one of the worker, and after a bit of climbing the wooden scaffolding up and down, you finally find yourself inside the city.",
+            //B
+            // [2]
+            @"You don't feel it would be fair to give to one beggar and not to the other. So you just give him a proper greetings and continue to the guard point.
+As you try to pass the guard, one of them stop you : ""Hey, you ! What's your business in Askeer ?""
+You don't really want to answer him, and just run out of it. You have to force your way but soon you are out of their sight.
+As you hear the guards shouts getting weaker, you stop running. You are in the city.",
+            //2----------------------------------------------------------------------------
+            // [3]
+            @"The guards, not just the one from the West gate, seems agitated and you want to know why.
+After walking less than ten minutes you are near the center of the town, where rich merchants and proficients crafters sells their goods.
+You see a wine dealer on your right, and a instrument maker on your left.
+            A - You decide to talk to the wine dealer.
+            B - You decide to talk to the instrument maker.",
+            //A
+            // [4]
+            @"You decide to buy a bottle of wine, and ask genuinely about the guard being on edge.
+""Tell me about it"", says the wine dealer. ""Since the incident the other day, they don't let us merchants in that easily.
+They search every carts entering the city. Of course, give them a bottle or two, and it smooth things over, but it's ruining my business !\",
+            //B
+            // [5]
+            @"You great the instrument maker, who don't even look at you as he is closing a deal with a bard.
+It's natural for bard to be well informed about the last news, you think. As soon as the bard leave the shop, you catch up with him and start asking him about the last big news.
+""Well, there was this big incident three days ago. Fire everywhere, and people screaming around.
+I'm sure it's the main story of every bards in the region. But me, I have better story to tell, I come from Val Tereigne Bard's Academia.\",
+            //3----------------------------------------------------------------------------
+            // [6]
+            "You want to ask more questions about the incident but you notice a group of guard coming your way."};
 
         public static void StartGame()
         {
